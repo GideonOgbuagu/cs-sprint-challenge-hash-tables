@@ -11,7 +11,7 @@ function will return a tuple of integers that has the following form:
 
 where each element represents the item weights of the two packages.
 _**The higher valued index should be placed in the `zeroth` index and
-the smaller index should be placed in the `first` index.**_ If such a
+the smaller index should be placed in the `first` index.**_ If such a  
 pair doesn’t exist for the given inputs, your function should return
 `None`.
 
